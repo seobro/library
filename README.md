@@ -1,4 +1,4 @@
-# University Library test application
+# University Library application
 
 # Requirements
 1. Publishers keep data about their books in a cloud-hosted query-able Mongo BD database.
